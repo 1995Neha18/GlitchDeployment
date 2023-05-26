@@ -10,7 +10,7 @@
  ],
 "doctors" : [
 	{
-	  "name": "Jane Doe",
+	  "name": "James",
 	  "image": "https://example.com/doctor-image.jpg",
 	  "specialization": "Dermatologist",
 	  "experience": 10,
